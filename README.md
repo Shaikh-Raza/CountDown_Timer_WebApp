@@ -13,10 +13,6 @@ In this project, we are using JavaScript to create a countdown or timer web-base
 <img src="Project ScreenShot.png">
 <img src="Project ScreenShot2.png">
 
-## Soruce Code
-- [Download](https://drive.google.com/file/d/1cWIfTZ-t6TQ0CRCmrALZ-loa21YqEdJO/view?usp=sharing)
-
-
 # Contribution Guidelines
 
 If you have got an optimized solution to a problem or, lets say, the existing solution is failing on some test cases and you got a working solution, then there is really a high chance of getting you pull request being accepted. 

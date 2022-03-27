@@ -1,6 +1,6 @@
 
 <p align="center">
-<img alt="NPM Version" src="3.png" /> <a href="#contributing"><img alt="Contributions Welcome" src="1.png"></a> <br/><a href="https://github.com/Top-Python-Projects/Convert-Text-to-Handwriting/blob/main/LICENSE"> <img alt="GitHub License MIT" src="ls.png"> </a><br/><br/> 
+<img alt="NPM Version" src="3.png" /> <a href="#contributing"><img alt="Contributions Welcome" src="1.png"></a><a href="https://github.com/Shaikh-Raza/CountDown_Timer_WebApp/blob/main/LICENSE"> <img alt="GitHub License MIT" src="ls.png"> </a><br/><br/> 
 </p>
 
 
